@@ -1,6 +1,6 @@
 
 
-# global-theme / Orchis Light
+# plasma-theme / Orchis Light
 
 
 ## Link
